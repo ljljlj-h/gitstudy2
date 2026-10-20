@@ -1,2 +1,4 @@
 banana
 apple
+pear
+fig
